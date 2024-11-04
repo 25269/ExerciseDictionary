@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

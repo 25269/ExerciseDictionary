@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\DictionaryExercise.exe
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\DictionaryExercise.deps.json
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\DictionaryExercise.runtimeconfig.json
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\DictionaryExercise.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\bin\Debug\net8.0\DictionaryExercise.pdb
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.AssemblyInfo.cs
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\refint\DictionaryExercise.dll
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.pdb
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\DictionaryExercise.genruntimeconfig.cache
+C:\Temp\Projetos C#\Dictionary\Dictionary\obj\Debug\net8.0\ref\DictionaryExercise.dll
